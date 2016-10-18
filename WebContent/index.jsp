@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<a href="HelloWorld">editHere to goPaddle Bluemeric ANTAPP DEMO Test</a>
+<a href="HelloWorld">editHere to goPaddle Bluemeric ANTAPP DEMO 1</a>
 </body>
 </html>
